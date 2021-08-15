@@ -1,4 +1,5 @@
 # Prediction-using-Supervised-ML
 DATA SCIENCE AND BUSINESS ANALYTIC INTERN @TSF
+![1](https://user-images.githubusercontent.com/84791918/129473551-ba5cc8bb-0469-4ac0-a74d-c3ee7d0cc2a2.png)
 
-<img src=“https://github.com/NitishMahajan1711/ILI9341_t3_controls/blob/master/1.png”>
+
